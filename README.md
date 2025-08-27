@@ -86,7 +86,7 @@
     </p>
     <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Future tech" />
   </section>  <footer>
-    <p>Made with ❤️ for the Wall Magazine Competition | Digital Culture</p>
+    <p>Made with ❤️ for the Wall Magazine Competition ( BCA 1st sem )| Digital Culture</p>
   </footer>
 </body>
 </html>
